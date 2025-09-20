@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">سَتُورِي - تعلم اليابانية</string>
+    
+    <!-- رسائل الترحيب -->
+    <string name="welcome_new_user">مرحباً بك في سَتُورِي!</string>
+    <string name="welcome_subtext">ابدأ رحلتك في تعلم اللغة اليابانية</string>
+    <string name="welcome_back_long_time">مرحباً بعودتك! لقد افتقدناك</string>
+    <string name="welcome_back_week">مرحباً بعودتك! استمر في التقدم</string>
+    <string name="welcome_back_recent">مرحباً بعودتك! دعنا نستمر من حيث توقفنا</string>
+    <string name="continue_progress">لقد تعلمت %d كانجي حتى الآن</string>
+    <string name="streak_days">%d أيام متتالية</string>
+    
+    <!-- رسائل النجاح -->
+    <string-array name="success_messages">
+        <item>أحسنت!</item>
+        <item>ممتاز!</item>
+        <item>رائع!</item>
+        <item>استمر في التقدم!</item>
+        <item>إجابة صحيحة!</item>
+    </string-array>
+    
+    <!-- أصناف المفردات -->
+    <string-array name="vocabulary_categories">
+        <item>جميع الفئات</item>
+        <item>أفعال</item>
+        <item>صفات</item>
+        <item>أسماء</item>
+        <item>طعام</item>
+        <item>أماكن</item>
+        <item>ألوان</item>
+        <item>أعداد</item>
+    </string-array>
+    
+    <!-- مستويات JLPT -->
+    <string-array name="jlpt_levels">
+        <item>جميع المستويات</item>
+        <item>N5</item>
+        <item>N4</item>
+        <item>N3</item>
+        <item>N2</item>
+        <item>N1</item>
+    </string-array>
+    
+    <!-- رسائل الأخطاء -->
+    <string name="correct_answer">الإجابة الصحيحة: %s</string>
+</resources>
